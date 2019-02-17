@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>Config Server</name>
-  <description>Config Server demo project</description>
+  <description>WPS:Config Server demo project</description>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
